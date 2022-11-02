@@ -1,0 +1,52 @@
+[{
+    "_id": {
+        "$oid": "6358b397afc0429fb6dac590"
+    },
+    "image": "https://pixabay.com/photos/sunset-sea-church-port-people-7535359/",
+    "brand": "PS4",
+    "price": 300,
+    "rating": 1,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "FIFA 22",
+    "description": "Themost hard FIFA ever",
+    "category": {
+        "$oid": "5f15d5cdcb4a6642bddc0fe9"
+    },
+    "countInStock": 25,
+    "__v":0
+},{
+    "_id": {
+        "$oid": "5f15d92eeb4a6642bddc0fe9"
+    },
+    "image": "should be some path",
+    "brand": "IKEA",
+    "price": 350,
+    "rating": 5,
+    "numReviews": 0,
+    "isFeatured": true,
+    "name": "Garden Chair",
+    "description": "Themost hard FIFA ever",
+    "category": {
+        "$oid": "5f15d5cdcb4rghj62bddc0fe9"
+    },
+    "countInStock": 30,
+    "__v":0
+},{
+    "_id": {
+        "$oid": "5f15d92ee520d44421ed8e9b"
+    },
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fshoes&psig=AOvVaw04pLgsa0sarNDWDLLJtvai&ust=1666946262707000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOis0IuBgPsCFQAAAAAdAAAAABAE",
+    "brand": "NIKE",
+    "price": 550,
+    "rating": 4.3,
+    "numReviews": 0,
+    "isFeatured": false,
+    "name": "Sports Shoe",
+    "description": "The brand new shoe",
+    "category": {
+        "$oid": "5f15d5cdcb4rrej31bddc0fe7"
+    },
+    "countInStock": 0,
+    "__v":0
+}]
